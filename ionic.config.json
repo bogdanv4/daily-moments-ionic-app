@@ -1,0 +1,7 @@
+{
+  "name": "daily-moments-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
